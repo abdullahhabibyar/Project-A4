@@ -5,7 +5,7 @@ public class DemoTest4 {
 		
 		System.out.println("Java");
 
-		
+		// comint added
 		System.out.println("abdullah");
 	
 }
